@@ -121,7 +121,6 @@
       texture = "quartz_block_top"
     }
   },
-  label = "Apple",
-  emitRedstone = false,
-  tooltip = "corp."
+  label = "Apple Logo",
+  emitRedstone = false
 }
