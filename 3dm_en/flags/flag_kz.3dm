@@ -201,6 +201,5 @@
       tint = 28159,
       texture = "quartz_block_top"
     }
-  },
-  label = "Флаг"
+  }
 }
