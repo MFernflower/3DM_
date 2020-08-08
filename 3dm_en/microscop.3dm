@@ -178,6 +178,5 @@
       [5] = 3,
       [6] = 9,
       texture = "quartz_block_top"
-    }
-  },
+  }
 }
