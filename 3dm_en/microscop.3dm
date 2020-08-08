@@ -180,6 +180,4 @@
       texture = "quartz_block_top"
     }
   },
-  label = "Микроскоп",
-  emitRedstone = false
 }
